@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/samuel/Github/lsp-solid/ExampleLSP/ExampleLSP.csproj": {}
+  },
+  "projects": {
+    "/home/samuel/Github/lsp-solid/ExampleLSP/ExampleLSP.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/samuel/Github/lsp-solid/ExampleLSP/ExampleLSP.csproj",
+        "projectName": "ExampleLSP",
+        "projectPath": "/home/samuel/Github/lsp-solid/ExampleLSP/ExampleLSP.csproj",
+        "packagesPath": "/home/samuel/.nuget/packages/",
+        "outputPath": "/home/samuel/Github/lsp-solid/ExampleLSP/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/samuel/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

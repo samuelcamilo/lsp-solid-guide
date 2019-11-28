@@ -1,0 +1,11 @@
+/home/samuel/Github/lsp-solid/ExampleLSP/bin/Debug/netcoreapp2.2/ExampleLSP.deps.json
+/home/samuel/Github/lsp-solid/ExampleLSP/bin/Debug/netcoreapp2.2/ExampleLSP.runtimeconfig.json
+/home/samuel/Github/lsp-solid/ExampleLSP/bin/Debug/netcoreapp2.2/ExampleLSP.runtimeconfig.dev.json
+/home/samuel/Github/lsp-solid/ExampleLSP/bin/Debug/netcoreapp2.2/ExampleLSP.dll
+/home/samuel/Github/lsp-solid/ExampleLSP/bin/Debug/netcoreapp2.2/ExampleLSP.pdb
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.csprojAssemblyReference.cache
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.csproj.CoreCompileInputs.cache
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.AssemblyInfoInputs.cache
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.AssemblyInfo.cs
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.dll
+/home/samuel/Github/lsp-solid/ExampleLSP/obj/Debug/netcoreapp2.2/ExampleLSP.pdb
